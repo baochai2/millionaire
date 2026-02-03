@@ -1,0 +1,8 @@
+.plastic/
+Library/
+Logs/
+Temp/
+UserSettings/
+.vsconfig
+ignore.conf
+millionaire.sln
