@@ -2,4 +2,4 @@
     Millionaire
 </h1>
 
-**Millionaire** is a game
+**Millionaire** is a game developed via unity
